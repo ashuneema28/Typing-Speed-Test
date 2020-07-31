@@ -21,4 +21,9 @@ To change the text that you want to test yourself with follow these steps:
 
 1. Open index.html in an editor of your choice.
 2. Go to line 23 inside the div element which looks like this:
+
+  ![](origin_text.PNG)
+  
+3. Change the text inside the p tags and save the file.
+4. When you run the index.html file again you will notice the changes.
     
